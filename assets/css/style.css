@@ -154,4 +154,9 @@ aside {
     text-align: center;
     
     }
+section {
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    }
 }
